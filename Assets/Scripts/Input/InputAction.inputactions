@@ -1,0 +1,40 @@
+{
+    "name": "InputAction",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "ec4ca3b4-a2d2-4d36-bd46-cf91fd06d261",
+            "actions": [
+                {
+                    "name": "PressAnyButton",
+                    "type": "Button",
+                    "id": "10f17756-2fe8-4059-bc6d-20e9237f00c2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "40d19839-9824-434e-ad28-f42c0fbe50d5",
+                    "path": "<Keyboard>/anyKey",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PressAnyButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "PC",
+            "bindingGroup": "PC",
+            "devices": []
+        }
+    ]
+}
