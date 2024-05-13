@@ -83,6 +83,8 @@ MonoBehaviour:
   <ScreenDataCollection>k__BackingField:
   - <BoundScreenType>k__BackingField: 0
     <ScreenPrefab>k__BackingField: {fileID: 2104104966040200753, guid: 2b021a0c5fb209e4e812f517e91aae98, type: 3}
+  - <BoundScreenType>k__BackingField: 1
+    <ScreenPrefab>k__BackingField: {fileID: 7460831047297890468, guid: b6bc6607fe74d8f4588f7205f8c0f9d7, type: 3}
   <ScreensContainer>k__BackingField: {fileID: 6086396014142730680}
   <ShowFirstScreen>k__BackingField: 1
   <FirstScreenToShow>k__BackingField: 0
