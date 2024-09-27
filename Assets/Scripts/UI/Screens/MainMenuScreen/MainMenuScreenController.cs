@@ -28,10 +28,9 @@ namespace UI.Screens.MainMenuScreen
             //CachedMainMenuScreenManager.ShowGameConfigurationScreen();
         }
 
-        //TODO: Implement OptionsScreen
         private void ShowOptionsScreen()
         {
-            //CachedMainMenuScreenManager.ShowOptionsScreen();
+            CachedMainMenuScreenManager.ShowOptionsScreen();
         }
 
         private void ShowExitPopup()
